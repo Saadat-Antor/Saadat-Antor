@@ -37,14 +37,19 @@ A machine learning project to predict CO2 emissions using linear regression, ran
 A machine learning project to predict credit card approvals using logistic regression. The project includes data cleaning, exploratory data analysis, feature engineering, and model evaluation and performance.
 
 ### 🧠 [Dr. Semmelweis and The Discovery of Handwashing](https://github.com/Saadat-Antor/PortFolio-Projects/blob/main/PROJ_12_DR.%20SEMMELWEIS%20AND%20THE%20DISCOVERY%20OF%20HANDWASHING.ipynb)
-A comprehensive data analysis project on the data that made Semmelweis discover the importance of handwashing. Includes data wrangling, EDA, and insightful visualizations using Pandas, Matplotlib, and Seaborn.
-## Open Source Contributions
+A comprehensive data analysis project on the data that made Semmelweis discover the importance of handwashing. Includes data wrangling, EDA, and insightful visualizations using Pandas, and Seaborn.
 
-- **[Open Source Project 1](https://github.com/someopensourceproject)**
-  Contributed to documentation and minor bug fixes.
+### 🧠 [A Visual History of Nobel Prize Winners](https://github.com/Saadat-Antor/PortFolio-Projects/blob/main/PROJ_10_A%20VISUAL%20HISTORY%20OF%20NOBEL%20PRIZE%20WINNERS.ipynb)
+A comprehensive data analysis project on whether in the past the Prize was very Eurocentric and male-focused or not. Includes data wrangling, EDA, and insightful visualizations using Pandas, numpy, and Seaborn.
 
-- **[Open Source Project 2](https://github.com/anotheropensourceproject)**
-  Implemented new features and performed code reviews.
+### 🧠 [The Github History of The Scala Language](https://github.com/Saadat-Antor/PortFolio-Projects/blob/main/PROJ_09_THE%20GITHUB%20HISTORY%20OF%20THE%20SCALA%20LANGUAGE.ipynb)
+A non-comprehensive data analysis project on who has had the most influence on its development and who are the experts of real-world project repository of Scala. Includes data wrangling, EDA, and insightful visualizations using Pandas, and Matplotlib.
+
+### 🧠 [Google Play Store Apps and Reviews](https://github.com/Saadat-Antor/PortFolio-Projects/blob/main/PROJ_08_GOOGLE%20PLAY%20STORE%20APPS%20AND%20REVIEWS.ipynb)
+A comprehensive data analysis project on deriving insights to devise strategies to drive growth and retention of Android apps by analyzing 10000+ apps in Google Play across different categories. Includes data wrangling, EDA, and insightful visualizations using Pandas, Numpy, Matplotlib, and Plotly.
+
+### 🧠 [Investigating Netflix Movies and Guest Stars in the Office](https://github.com/Saadat-Antor/PortFolio-Projects/blob/main/PROJ_07_INVESTIGATING%20NETFLIX%20MOVIES%20AND%20GUEST%20STARS%20IN%20THE%20OFFICE.ipynb)
+A non-comprehensive data analysis project on whether movies are becoming shorter and shorter by analyzing 1000+ movies. Includes data wrangling, EDA, and insightful visualizations using Pandas, and Matplotlib.
 
 ## Get in Touch
 
@@ -70,8 +75,3 @@ I'm always open to discussing new projects, collaborations, or job opportunities
 
 ---
 
-### Support My Work
-
-If you find my projects helpful or interesting, consider buying me a coffee:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-orange?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourusername)
