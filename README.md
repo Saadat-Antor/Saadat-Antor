@@ -26,22 +26,18 @@ Hi there! I'm a passionate **Data Scientist** with a strong background in **Mach
   - Git Version Control, Big Data Technologies (Hadoop, Spark), Cloud Computing (AWS, Azure)
 
 - **Soft Skills**
-  - Problem Solving, Critical Thinking, Communication Skills
+  - Problem-solving, Critical Thinking, Communication Skills
 
 ## Projects
 
-### 🚀 [Customer Churn Prediction](https://github.com/yourusername/customer-churn-prediction)
-A machine learning project to predict customer churn using various classification algorithms. The project includes data cleaning, exploratory data analysis, feature engineering, and model evaluation.
+### 🚀 [CO2 Emission Prediction in Rwanda](https://github.com/Saadat-Antor/CO2_emission_prediction_in_Rowanda))
+A machine learning project to predict CO2 emissions using linear regression, random forest, and gradient boosting algorithms. The project includes data cleaning, exploratory data analysis, feature engineering, and model evaluation.
 
-### 🌟 [Image Classification with CNNs](https://github.com/yourusername/image-classification-cnns)
-An end-to-end deep learning project using Convolutional Neural Networks to classify images from the CIFAR-10 dataset. Implemented using TensorFlow and Keras.
+### 🤖 [Predicting Credit Card Approvals](https://github.com/Saadat-Antor/PortFolio-Projects/blob/main/PROJ_13_PREDICTING%20CREDIT%20CARD%20APPROVALS.ipynb)
+A machine learning project to predict credit card approvals using logistic regression. The project includes data cleaning, exploratory data analysis, feature engineering, and model evaluation and performance.
 
-### 📊 [Sales Data Analysis](https://github.com/yourusername/sales-data-analysis)
-A comprehensive data analysis project on sales data. Includes data wrangling, EDA, statistical modeling, and insightful visualizations using Pandas, NumPy, Matplotlib, and Seaborn.
-
-### 💾 [SQL Database Management](https://github.com/yourusername/sql-database-management)
-A project showcasing SQL database management skills. Includes creating and managing databases, writing complex queries, and optimizing performance for MySQL and PostgreSQL databases.
-
+### 🧠 [Dr. Semmelweis and The Discovery of Handwashing](https://github.com/Saadat-Antor/PortFolio-Projects/blob/main/PROJ_12_DR.%20SEMMELWEIS%20AND%20THE%20DISCOVERY%20OF%20HANDWASHING.ipynb)
+A comprehensive data analysis project on the data that made Semmelweis discover the importance of handwashing. Includes data wrangling, EDA, and insightful visualizations using Pandas, Matplotlib, and Seaborn.
 ## Open Source Contributions
 
 - **[Open Source Project 1](https://github.com/someopensourceproject)**
