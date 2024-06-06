@@ -30,7 +30,7 @@ Hi there! I'm a passionate **Data Scientist** with a strong background in **Mach
 
 ## Projects
 
-### 🚀 [CO2 Emission Prediction in Rwanda](https://github.com/Saadat-Antor/CO2_emission_prediction_in_Rowanda))
+### 🚀 [CO2 Emission Prediction in Rwanda](https://github.com/Saadat-Antor/CO2_emission_prediction_in_Rowanda)
 A machine learning project to predict CO2 emissions using linear regression, random forest, and gradient boosting algorithms. The project includes data cleaning, exploratory data analysis, feature engineering, and model evaluation.
 
 ### 🤖 [Predicting Credit Card Approvals](https://github.com/Saadat-Antor/PortFolio-Projects/blob/main/PROJ_13_PREDICTING%20CREDIT%20CARD%20APPROVALS.ipynb)
@@ -53,19 +53,15 @@ A non-comprehensive data analysis project on whether movies are becoming shorter
 
 ## Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Kaggle:** [Your Kaggle Profile](https://www.kaggle.com/yourprofile)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Md. Sadat Amin](https://www.linkedin.com/in/saadatantor/)
+- **Kaggle:** [Md. Sadat Amin](https://www.kaggle.com/saadatantor)
+- **Email:** md.sadat.amin@gmail.com
 
 I'm always open to discussing new projects, collaborations, or job opportunities. Feel free to reach out!
 
 ---
 
-### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Your latest blog post](https://yourblog.com/post1)
-- [Another interesting post](https://yourblog.com/post2)
-<!-- BLOG-POST-LIST:END -->
+### You can also visit my website [here](https://www.saadatantor.com)
 
 ### GitHub Stats
 
