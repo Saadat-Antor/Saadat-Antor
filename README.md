@@ -30,7 +30,7 @@ Hi there! I'm a passionate **Data Scientist** with a strong background in **Mach
 
 ## Projects
 
-### 🤖 [Predicting Credit Card Approvals](https://github.com/Saadat-Antor/credit_card_fraud_detection/)
+### 🤖 [Credit Card Fraud Detection](https://github.com/Saadat-Antor/credit_card_fraud_detection/)
 A machine learning project to predict fraudulent transactions via credit card  using different classification models. The project includes data cleaning, exploratory data analysis, feature engineering, and model evaluation and performance.
 
 ### 🚀 [CO2 Emission Prediction in Rwanda](https://github.com/Saadat-Antor/CO2_emission_prediction_in_Rowanda)
