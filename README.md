@@ -30,11 +30,11 @@ Hi there! I'm a passionate **Data Scientist** with a strong background in **Mach
 
 ## Projects
 
+### 🤖 [Predicting Credit Card Approvals](https://github.com/Saadat-Antor/credit_card_fraud_detection/)
+A machine learning project to predict fraudulent transactions via credit card  using different classification models. The project includes data cleaning, exploratory data analysis, feature engineering, and model evaluation and performance.
+
 ### 🚀 [CO2 Emission Prediction in Rwanda](https://github.com/Saadat-Antor/CO2_emission_prediction_in_Rowanda)
 A machine learning project to predict CO2 emissions using linear regression, random forest, and gradient boosting algorithms. The project includes data cleaning, exploratory data analysis, feature engineering, and model evaluation.
-
-### 🤖 [Predicting Credit Card Approvals](https://github.com/Saadat-Antor/PortFolio-Projects/blob/main/PROJ_13_PREDICTING%20CREDIT%20CARD%20APPROVALS.ipynb)
-A machine learning project to predict credit card approvals using logistic regression. The project includes data cleaning, exploratory data analysis, feature engineering, and model evaluation and performance.
 
 ### 🧠 [Dr. Semmelweis and The Discovery of Handwashing](https://github.com/Saadat-Antor/PortFolio-Projects/blob/main/PROJ_12_DR.%20SEMMELWEIS%20AND%20THE%20DISCOVERY%20OF%20HANDWASHING.ipynb)
 A comprehensive data analysis project on the data that made Semmelweis discover the importance of handwashing. Includes data wrangling, EDA, and insightful visualizations using Pandas, and Seaborn.
